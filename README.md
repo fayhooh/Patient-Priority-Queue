@@ -82,6 +82,6 @@ public class PatientPriorityQueue {
             treatNextPatient();
         }
 
-        System.out.println("\nAll patients treated.");
+        System.out.println("\nAll patients treatedf\.");
     }
 }
